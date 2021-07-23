@@ -1,7 +1,7 @@
 # i2pgram
 The central umbrella i2pgram repo
 
-A built image of i2pgram desktop client for Ubuntu 14.04+ http://mitdpvuagbbk2r6jltj4nz6lurqfwdhxb3wa4jf6nixze2snowdq.b32.i2p/
+A built image of i2pgram desktop client for Ubuntu 14.04+ http://upvum2vlbkljuvphrremwwlhmypl3te7dr2gyrsw4oady3brhc7q.b32.i2p/
 
 ```
 # ./Telegram --help

@@ -1,7 +1,7 @@
 # i2pgram
 The central umbrella i2pgram repo
 
-This currenly employs a client-server architecture. The server is https://github.com/i2pgram/chatengine and the client is https://github.com/i2pgram/i2pgram-desktop ; with potential future clients to be made from https://github.com/i2pgram/i2pgram-clients and https://github.com/i2pgram/webogram-flavors-umbrella .
+This currenly employs a client-server architecture. The server is https://github.com/i2pgram/chatengine and the client is https://github.com/i2pgram/i2pgram-desktop (C++ Qt for Linux, Windows, macOS); with potential future clients to be made from https://github.com/i2pgram/i2pgram-clients (Android, iOS) and https://github.com/i2pgram/webogram-flavors-umbrella (web clients).
 
 ## What is this and why
 

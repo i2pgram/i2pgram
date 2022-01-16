@@ -65,3 +65,38 @@ bloat 01happinessmachinedaofoundation.i2p
 <eternalchaoticexplosion> или ещё лучше
 <eternalchaoticexplosion> книжку читал? (*) да ( ) нет
 ```
+
+
+
+
+
+
+```
+<eternalchaoticexplosion> книжку читал? (*) да ( ) нет
+<eternalchaoticexplosion> updated org descr https://github.com/i2pgram
+<LinkShow> [github.com] # freegram.i2p · GitHub > plans: the first i2p-hardened 
+fediverse+xmpp+irc fork of telegram.org with servers federations, i2p, yggdrasil, 
+modern and gostcoin etc blockchains etc et al. - freegram.i2p
+* val has quit (Ping timeout: 120 seconds)
+* val (val@drtkdwabwzu5nfrp74uck5x6fio2u7rdke4oao7zlqnidu6ngmcq.b32.i2p) has joined
+* uis has quit (Ping timeout: 121 seconds)
+* uis (uis@xv6v4scnc6aaxtmzmizagebv4dtfrlr4xgc34axpksnes3ogyx3a.b32.i2p) has joined
+<Энрико-Палаццо> лягушка подлая и мерзкая притом !!!!
+* subatom has quit (Ping timeout: 120 seconds)
+* subatom (subatomic@zxkli2u5rxr7wmoxwpmbwxlnftuemz6jjlruzuunobytcllmxidq.b32.i2p) has joined
+* subatom has quit (Ping timeout: 121 seconds)
+* subatom (subatomic@zxkli2u5rxr7wmoxwpmbwxlnftuemz6jjlruzuunobytcllmxidq.b32.i2p) has joined
+* val has quit (Ping timeout: 120 seconds)
+* val (val@drtkdwabwzu5nfrp74uck5x6fio2u7rdke4oao7zlqnidu6ngmcq.b32.i2p) has joined
+<Энрико-Палаццо> лягушка подлая и мерзкая притом !!!!
+* subatom has quit (Ping timeout: 120 seconds)
+* subatom (subatomic@zxkli2u5rxr7wmoxwpmbwxlnftuemz6jjlruzuunobytcllmxidq.b32.i2p) has joined
+* val has quit (Ping timeout: 120 seconds)
+* val (val@drtkdwabwzu5nfrp74uck5x6fio2u7rdke4oao7zlqnidu6ngmcq.b32.i2p) has joined
+* grimreaper has quit (Quit: leaving)
+<eternalchaoticexplosion> Энрико-Палаццо, БОЛОТЫGAMEРУ
+<Энрико-Палаццо> да .... да ... да ...
+<Энрико-Палаццо> с добрым утром. У вас холодно ?
+* svmaksat has quit (Ping timeout: 241 seconds)
+<eternalchaoticexplosion> у нас самолёт реахтивный по небу летит слышно
+```

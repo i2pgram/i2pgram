@@ -1,4 +1,4 @@
-# current i2pchat agenda (Feb 26, 2022)
+# current i2pgram agenda (Feb 26, 2022)
 
 ```
 
